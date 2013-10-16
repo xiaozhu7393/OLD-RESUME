@@ -6,7 +6,7 @@ Powered by LaTeX
 --------------------------------------------
 More about me [www.phodal.com](http://www.phodal.com)
 
-![image](http://www.phodal.com/static/phodal/images/djangopowered126x54_grey.gif) 
+![image](http://latex-project.org/lib/img/lion.png) 
 
 
 		Person for All Jobs
