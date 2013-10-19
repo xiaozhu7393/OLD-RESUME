@@ -2,11 +2,12 @@ Phodal's Resume
 =================================================
 
 
-Powered by LaTeX
+More about me
 --------------------------------------------
-More about me [www.phodal.com](http://www.phodal.com)
+ [www.phodal.com](http://www.phodal.com)
 
-![image](http://www.phodal.com/static/phodal/images/djangopowered126x54_grey.gif) 
+Powered By 
+![image](http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/225px-LaTeX_logo.svg.png) 
 
 
 		Person for All Jobs
