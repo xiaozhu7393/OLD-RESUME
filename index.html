@@ -8,7 +8,7 @@
     <title>黄峰达-个人简历 Phodal Resume</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
-    <link href="css/metro-bootstrap.css" rel="stylesheet"/ >
+    <link href="css/bootstrap.min.css" rel="stylesheet"/ >
     <link href="css/jquery-ui-1.10.3.custom.min.css" rel="stylesheet" />
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -26,57 +26,42 @@
 
     <div class="container">
 
-<nav class="navbar navbar-default" role="navigation">
-  <!-- Brand and toggle get grouped for better mobile display -->
-  <div class="navbar-header">
-    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-      <span class="sr-only">Toggle navigation</span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-    </button>
-    <a class="navbar-brand" href="#">Phodal</a>
-  </div>
+	<nav class="navbar navbar-default" role="navigation">
+	  <!-- Brand and toggle get grouped for better mobile display -->
+	  <div class="navbar-header">
+	    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+	      <span class="sr-only">Toggle navigation</span>
+	      <span class="icon-bar"></span>
+	      <span class="icon-bar"></span>
+	      <span class="icon-bar"></span>
+	    </button>
+	    <a class="navbar-brand" href="#">Phodal</a>
+	  </div>
 
-  <div class="collapse navbar-collapse navbar-ex1-collapse">
-    <ul class="nav navbar-nav">
-      <li class="active"><a href="#">在校情况</a></li>
-     <li><a href="#">Link</a></li>
-      <li class="dropdown">
-        <a href="#" class="dropdown-toggle" data-toggle="dropdown">简历下载<b class="caret"></b></a>
-        <ul class="dropdown-menu">
-          <li><a href="https://github.com/gmszone/RESUME/blob/master/Personal/all.pdf?raw=true">全版本</a></li>
-          <li><a href="https://github.com/gmszone/RESUME/blob/master/Personal%20Web/web.pdf?raw=true">web专用</a></li>
-          <li><a href="https://github.com/gmszone/RESUME/blob/master/Personal%20Embeded/Embeded.pdf?raw=true">嵌入式专用</a></li>
-          <li><a href="https://github.com/gmszone/RESUME/blob/master/word/Phodal%20Huang.docx?raw=true">Word</a></li>
+	  <div class="collapse navbar-collapse navbar-ex1-collapse">
+	    <ul class="nav navbar-nav">
+	      <li class="active"><a href="#">在校情况</a></li>
+	     <li><a href="#">项目经历</a></li>
+	      <li class="dropdown">
+	        <a href="#" class="dropdown-toggle" data-toggle="dropdown">简历下载<b class="caret"></b></a>
+	        <ul class="dropdown-menu" >
+	          <li><a href="https://github.com/gmszone/RESUME/blob/master/Personal/all.pdf?raw=true">全版本</a></li>
+	          <li><a href="https://github.com/gmszone/RESUME/blob/master/Personal%20Web/web.pdf?raw=true">web专用</a></li>
+	          <li><a href="https://github.com/gmszone/RESUME/blob/master/Personal%20Embeded/Embeded.pdf?raw=true">嵌入式专用</a></li>
+	          <li><a href="https://github.com/gmszone/RESUME/blob/master/word/Phodal%20Huang.docx?raw=true">Word</a></li>
+	        </ul>
+	      </li>
+	    </ul>
+	     <form name="search-highlight" id="search-highlight" method="post" action="#" class="navbar-form navbar-right" role="search">
+	        <input name="term" id="term" class="text form-control2" placeholder="页面内搜索"/>
+	        <input type="submit" name="submit" id="submit" class="btn btn-info" value="搜索" />
+	    </form>
+	  </div><!-- /.navbar-collapse -->
 
-        </ul>
-      </li>
-    </ul>
-     <form name="search-highlight" id="search-highlight" method="post" action="#" class="navbar-form navbar-right" role="search">
-        <input name="term" id="term" class="text form-control2" placeholder="页面内搜索"/>
-        <input type="submit" name="submit" id="submit" class="btn btn-info" value="搜索" />
-    </form>
-  </div><!-- /.navbar-collapse -->
+	</nav>
+	    <p class=" .hide results alert-warning"></p>
+	    <div class="jumbotron2">
 
-</nav>
-    <p class=" .hide results alert-warning"></p>
-
-      <!-- Jumbotron -->
-      <!--
-      <div class="jumbotron">
-		<div class="list-group">
-		  <a href="#" class="list-group-item active" id="draggable1">
-		    Cras justo odio
-		  </a>
-		  <a href="#" class="list-group-item" id="draggable2">Dapibus ac facilisis in</a>
-		  <a href="#" class="list-group-item" id="draggable3">Morbi leo risus</a>
-		  <a href="#" class="list-group-item" id="draggable4">Porta ac consectetur ac</a>
-		  <a href="#" class="list-group-item" id="draggable5">Vestibulum at eros</a>
-		</div>
-        <a class="btn btn-lg btn-success" href="#">Get started today</a></p>
-      </div>
-      -->
 		<div id="timelineContainer">
 				<br class="clear">
 				<div class="timelineMajor">
@@ -136,7 +121,8 @@
 		        </dl><!-- /.timelineMinor -->
 		    </div><!-- /.timelineMajor -->
 		</div><!-- /#timelineContainer -->
-
+	</div>
+  <!--
       <div class="row">
         <div class="panel panel-primary col-lg-4 ">
         <div class="panel-heading">远程控制的智能云家居系统</div>
@@ -176,10 +162,11 @@
 		    </ul>
 	        </div>
         </div>  
-        
-        </div>
+     </div>
 
-
+        -->
+	  <hr>
+	  <div style="clear:both"></div>
       <!-- Site footer -->
       <div class="footer">
         <p>&copy; Company 2013</p>
