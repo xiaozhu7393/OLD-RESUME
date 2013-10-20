@@ -241,3 +241,22 @@ dl.timelineMinor {
 .container .jumbotron2 {
   border-radius: 6px;
 }
+@font-face {font-family:
+    'RaphaelIcons';
+    src:
+    url('sosa-regular-webfont.eot');
+    src:
+    local('☺'), url('sosa-regular-webfont.woff') format('woff'), url('sosa-regular-webfont.ttf') format('truetype'), url('sosa-regular-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+div.icon {
+    font-weight: normal;
+    font-style: normal;
+    line-height: normal;
+    font-family: 'RaphaelIcons';
+    font-size: 1.1em;
+    position: relative;
+    top: 0.1em;
+}
