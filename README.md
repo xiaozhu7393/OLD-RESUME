@@ -1,16 +1,17 @@
 Phodal's Resume
 =================================================
+##### 黄峰达
+## With 
+- jQuery 
+- jQuery UI
+- Bootstrap Framework
+- jQuery Timeliner
+- colorbox
+- jQuery smint
 
+## Credits
+The content used in the repo and in the demo is from the Investigating Power project (http://www.investigatingpower.org), a website which I developed on behalf of author and journalist Charles Lewis.
 
-More about me
---------------------------------------------
- [www.phodal.com](http://www.phodal.com)
+The repo is packaged with a version of Jack Moore's ColorBox jQuery plugin (http://www.jacklmoore.com/colorbox). It is for demonstration purposes only. See https://github.com/jackmoore/colorbox for support.
 
-Powered By 
-![image](http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/225px-LaTeX_logo.svg.png) 
-
-
-		Person for All Jobs
-		Web for Web Jobs
-		Embedede for Embeded
-
+### License
