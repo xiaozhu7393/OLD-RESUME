@@ -9,27 +9,20 @@
 \documentclass[11pt,a4paper,sans]{moderncv}  
 \usepackage[utf8]{inputenc}                  
 \usepackage{CJKutf8}
-\usepackage{info}
-% moderncv 主题
-                     
+\usepackage{info}                 
 
-\setlength{\hintscolumnwidth}{3cm}           % 如果你希望改变日期栏的宽度
- 
-
-% 个人信息
+\setlength{\hintscolumnwidth}{3cm}           
 \name{黄}{峰达}
+\title{http://about.phodal.com}                      
+\address{陕西省西安市太白南路168号}{710065}            
+\phone[mobile]{+18209219631}              
+\email{h@phodal.com}                    
+\homepage{www.phodal.com}                   
+\extrainfo{Power by \LaTeX  }                   
+\photo[64pt][0.2pt]{picture}                   
 
-%\title{简历题目 (可选项)}                     % 可选项、如不需要可删除本行
-\address{陕西省西安市太白南路168号}{710065}            % 可选项、如不需要可删除本行
-\phone[mobile]{+18209219631}              % 可选项、如不需要可删除本行
-% 可选项、如不需要可删除本行
-\email{h@phodal.com}                    % 可选项、如不需要可删除本行
-\homepage{www.phodal.com}                  % 可选项、如不需要可删除本行
-\extrainfo{Power by \LaTeX  }                 % 可选项、如不需要可删除本行
-\photo[64pt][0.2pt]{picture}                  % ‘64pt’是图片必须压缩至的高度、‘0.4pt‘是图片边框的宽度 (如不需要可调节至0pt)、’picture‘ 是图片文件的名字;可选项、如不需要可删除本行
-\quote{期望职位	计算机/互联网/通信/嵌入系统}  
 \begin{document}
-\begin{CJK}{UTF8}{gbsn}                       % 详情参阅CJK文件包
+\begin{CJK}{UTF8}{gbsn}                        
 \maketitle
 
 \section{{教育经历}}
@@ -47,38 +40,15 @@
 	\item 名称:《基于Android与Arduino的远程智能家居控制系统》 
 	\item 职责: Android客户端编写、服务端编程、网站制作及运营、项目规划
 \end{tightitemize}}
-\tllabelcventry{2012.10}{2013.6}{2013.6}{第九届 陕西省大学生课外学术科技作品竞赛二等奖}{}{}{}{
+\tllabelcventry{2012.10}{2013.6}{2013.6}{第九届 陕西省 大学生课外学术科技作品竞赛二等奖}{}{}{}{
 \begin{tightitemize}
 	\item 名称:《远程控制的智能云家居系统》 
 	\item 职责: Android客户端编写、服务端编程、网站制作及运营、项目规划、文档编写
 \end{tightitemize}}
 \tllabelcventry{2013.1}{2013.7}{2013.7}{第八届全国大学生“飞思卡尔”杯}{西部赛区 电磁组三等奖}{}{}{}
 
-\section{专业技能}
-\subsection{开发}
-\cvcomputer{语言}{C/C++,Python, Java, JavaScript, C51, Lisp, C\# ,Erlang}
-           {Web}{HTML,DIV+CSS3, Nodejs, jQuery, AJAX, REST, Socket , Discuz,Wordpress}
-\cvcomputer{框架}{Django, Pomelo, Bootstrap, jQuery,jQuery Mobile, Cocos2d-X}
-           {数据库}{MySQL, MongoDB, SQLite}
-
-\subsection{工具}
-\cvcomputer{办公}{iWork, OpenOffice/LibreOffice, Microsoft Office, \LaTeX, Graphviz}
-           {操作系统}{Mac OS X, GNU/Linux(penSUSE, Centos), Windows}
-\cvcomputer{Design}{InkScape, Photoshop, GIMP, Dot, Texworks}
-           {编辑器}{Emacs, VIM, Coda, Sublime Text,  Notepad++, Eclipse, Aptana}
-
-\subsection{嵌入式}           
-\cvcomputer{芯片}{Atmega family, 51, STM32, MSP430, Freescale K60, Freescale XS128, ARM}
-           {开发环境}{IAR for ARM, Keil C51, ADS, Arduino IDE, Android Sudio,Eclipse,Energia}
-\cvcomputer{EOS}{$\mu$C/OS $\Pi$,openWRT Linux,Linux for ARM}
-		{其他}{openCV, TTS, Raspberry Pi, MATLAB}
-
-
-\newpage
-
-
 \section{工作经验}
-\subsection{网站设计}
+\subsection{网站建设}
 \tllabelcventry{2012.6}{2012.10}{2012.10}{福建荣宇有限公司}{官网升级}{网站前端}{}{
 \begin{tightitemize}
         \item 网站前端设计 后台运维 
@@ -86,26 +56,27 @@
 \end{tightitemize}}
 \tllabelcventry{2013.7}{2013.9}{2013.7}{陕西省福建商会}{官网迁移}{网站前端}{}{
 \begin{tightitemize}
-        \item 网站前端设计 
+        \item 网站前端设计 后台运维
         \item 公司主页: {\httplink{www.sxsfjsh.com/}}
 \end{tightitemize}}
+
 \section{{项目经历}}
-\tllabelcventry{2012.10}{2013.6}{}{远程控制的智能云家居系统}{项目负责人}{}{}{
+\tllabelcventry{2012.10}{2013.6}{2012-2013}{远程控制的智能云家居系统}{项目负责人}{}{}{
 \begin{tightitemize}
         \item 关键技术:Django, RESTful API,Android ADK,物联网, Ajax,XBEE
-        \item 编程语言:Python,Java,C/C++,Processing,
+        \item 编程语言:Python,Java,C/C++,Processing,Javascript
         \item 采用RESTful Web服务来实现网络控制与传输。
         \item 采用Ajax技术实现数据实时更新。
         \item 采用XBee来实现无线传感器网络。
         \item wiki主页:{\httplink{api.phodal.com/wiki/}}
 \end{tightitemize}}
-\tllabelcventry{2012}{2013.4}{}{{远程控制的智能云家居系统Android客户端}}{主要开发人员}{编程语言: Java}{}{
+\tllabelcventry{2012}{2013.4}{2012-2013}{{远程控制的智能云家居系统Android客户端}}{主要开发人员}{编程语言: Java}{}{
 \begin{tightitemize}
         \item 关键技术: RESTful,Java,
         \item 实现手机对用电器控制及与单片机通讯
         \item 项目主页: {\httplink{code.google.com/p/home-anywhere/}}
 \end{tightitemize}}
-\tllabelcventry{2012}{0}{}{{远程控制的智能云家居系统服务端与网站}}{主要开发人员}{}{}{
+\tllabelcventry{2012}{0}{2012-2013}{{远程控制的智能云家居系统服务端与网站}}{主要开发人员}{}{}{
 \begin{tightitemize}
         \item 关键技术:HTTP, 协议分析, RESTful,Ajax,jQuery Mobile
 		\item 编程语言:Bash,Javascript,Python,
@@ -114,30 +85,82 @@
         \item 项目主页: {\httplink{api.phodal.com}}
 \end{tightitemize}}
 
-\subsection{其他经历}
-\tlcventry{2010.12}{0}{其他课程项目、研究}{}{}{}{
+\subsection{研究、开发经历}
+\tlcventry{02008.11}{0}{GNU/Linux相关项目、研究}{}{}{}{
+\begin{tightitemize}
+\item Linux服务器(CentOS)运行及维护 
+\item 使用LFS编译自己的Linux系统
+\item Linux+Apache+MySQL+PHP Linux+Nginx+MySQL+PHP+Python LAMP LNMP架设
+\item Linux内核研究及其编译
+\item GNU/Linux版本Ubuntu Linux,Centos Linux,OpenSUSE Linux,OpenWRT Linux,Mint Linux,Debian Linux
+\item Linux C、Linux Shell开发经验
+\end{tightitemize}}
+
+\tlcventry{2010.11}{0}{网络相关项目、研究}{}{}{}{
+\begin{tightitemize}
+ \item 使用jQuery+Timerliner+Bootstrap完成的个人网页简历 {\httplink{about.phodal.com}}
+ \item 使用PHP与Laravel做的CMS {\httplink{www.xianuniversity.com}}
+ \item 使用Node.j和WebSocket实现了简易在线聊天系统  {\httplink{socket.phodal.com}}
+ \item 使用Python、Django、 Bootstrap维护的个人网站 {\httplink{www.phodal.com}}
+ \item 个人博客、SEO优化、微数据(Microdata) {\httplink{blog.phodal.com}}
+ \item 弘知书社客户端及网站建设 {\httplink{www.hongzhishushe.com}}
+\end{tightitemize}}
+
+\tlcventry{2011.5}{0}{嵌入式相关项目、研究}{}{}{}{
 \begin{tightitemize}
  \item 使用QT4完成移动蜂窝模型通信系统构建
- \item 使用Node.j和WebSocket实现了简易在线聊天系统  {\httplink{socket.phodal.com}}
  \item 使用flex和bison ,antlr完成了简单的翻译器
- \item 使用Python、Django、 Bootstrap维护的个人网站 {\httplink{www.phodal.com}}
  \item 使用Freescale K60实现寻线小车,使用Freescale XS128实现飞思上尔电磁车
- \item 个人博客、SEO优化、微数据(Microdata) {\httplink{blog.phodal.com}}
- \item 使用LFS编译自己的Linux系统
  \item 移植GCC for ARM到Android G1 {\httplink{blog.csdn.net/phodal}}
  \item 使用OpenWRT Linux实现路由器上运行Python，运行RESTful服务
+ \item 计算机语言ADA、C++在AVR芯片上的使用
+ \item uCOS II在STC89C52芯片上的多任务开发
 \end{tightitemize}}
+
+\tlcventry{2010.11}{0}{Github开源项目}{}{}{}{
+\begin{tightitemize}
+ \item Python Alioss包维护 {\httplink{github.com/gmszone/alioss}} 
+ \item 代码而成的简历 {\httplink{github.com/gmszone/RESUME}}
+ \item 数据可视化  {\httplink{github.com/gmszone/DataVisual}}
+\end{tightitemize}}
+\tlcventry{2010.11}{0}{Github、Google CODE托管项目}{}{}{}{
+\begin{tightitemize}
+ \item 网站制作集合 {{code.google.com/p/phodal-web-development/}} 
+ \item PHP学习 {\httplink{github.com/gmszone/learingphp}}
+ \item emacs配置及Django学习 {\httplink{code.google.com/p/phodal-gae-django-first}}
+ \item 其他参见 {\httplink{github.com/gmszone}}
+\end{tightitemize}}
+
+\section{技能}
+
+\subsection{开发}
+\cvcomputer{语言}{C/C++,Python,JavaScript, Lisp, C\#,Java,PHP}
+           {数据库}{MySQL, MongoDB, SQLite}
+           
+\cvcomputer{框架}{Django, Pomelo, Bootstrap, jQuery,jQuery Mobile, Cocos2d-X,Laravel,}
+     		{Web}{DIV+CSS3, Nodejs, jQuery, AJAX, RESTful, Socket,Angularjs,D3,}     
+
+\subsection{工具}
+\cvcomputer{办公}{LibreOffice, Microsoft Office, \LaTeX, Graphviz}
+           {操作系统}{Mac OS X, GNU/Linux(penSUSE, Centos), Windows}
+\cvcomputer{Design}{InkScape, Photoshop, GIMP, Dot, Texworks}
+           {编辑器}{Emacs, VIM, Sublime Text,  Notepad++, Eclipse, Aptana,QT}
+
+\subsection{嵌入式}           
+\cvcomputer{芯片}{Atmega family, 51, STM32, MSP430, Freescale K60, Freescale XS128, ARM}
+           {开发环境}{IAR for ARM, Keil C51, ADS, Arduino IDE, Android Sudio,Eclipse,Energia}
+\cvcomputer{EOS}{$\mu$C/OS $\Pi$,openWRT Linux,Linux for ARM}
+		{其他}{OpenCV, TTS, Raspberry Pi, MATLAB}
+		
+\section{博客}
+\cvitemwithcomment{CSDN}{http://blog.csdn.net/phodal}{PHP}
+\cvitemwithcomment{Phodal}{http://www.phodal.com/blog}{Django}
+\cvitemwithcomment{个人}{http://blog.phodal.com}{WORDPRESS}
 
 \section{语言技能}
 \cvitemwithcomment{英语}{}{精通读写}
 \cvitemwithcomment{闽南语}{}{精通听说}
 
-
-
-
-
-
-\newpage
 \section{个人信息}
 \cvitem{特长}{\small 计算机相关，互联网相关，网站创作、设计及运维，嵌入式系统设计，架构设计， DIY，设计，开源}
 \cvitem{职业技能}{\small 精通GNU/Linux，能在不同的平台编程，精通Emacs，熟练使用Vim，同时能使用Eclipse/及Visual studio编程，熟练使用Android与单片机通讯，不同单片机设备间的通讯。精通不同平台的排版及文档创作，精通使用office，以及tex/latex/miktex/生成文档，dot生成文档，系统构架分析及设计。}

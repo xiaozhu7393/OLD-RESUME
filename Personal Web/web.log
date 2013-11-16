@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.10.16)  16 OCT 2013 19:06
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.10.16)  29 OCT 2013 09:43
 entering extended mode
 **web.tex
-("C:\Users\phodal\Desktop\Personal Web\web.tex"
+("C:\Users\phodal\Desktop\resume\Personal Web\web.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -684,7 +684,7 @@ LaTeX Info: Redefining \selectfont on input line 755.
 ("C:\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 ))
-("C:\Users\phodal\Desktop\Personal Web\info.sty"
+("C:\Users\phodal\Desktop\resume\Personal Web\info.sty"
 Package: info 
 
 ("C:\MiKTeX 2.9\tex\latex\dejavu\DejaVuSansMono.sty"
@@ -704,6 +704,10 @@ Package footmisc Info: Declaring symbol style lamport* on input line 903.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 .
 )
+("C:\MiKTeX 2.9\tex\latex\moderncv\moderncvstylecasual.sty"
+Package: moderncvstylecasual 2013/04/29 v1.5.1 modern curriculum vitae and lett
+er style scheme: casual
+
 ("C:\MiKTeX 2.9\tex\latex\moderncv\moderncvstyleclassic.sty"
 Package: moderncvstyleclassic 2013/04/29 v1.5.1 modern curriculum vitae and let
 ter style scheme: classic
@@ -961,6 +965,17 @@ LaTeX Font Info:    Try loading font information for U+mvs on input line 68.
 \cvitemwithcommentmainbox=\box51
 \cvitemwithcommentmainlength=\skip75
 \cvitemwithcommentcommentlength=\skip76
+) ("C:\MiKTeX 2.9\tex\latex\moderncv\moderncviconsawesome.sty"
+Package: moderncviconsawesome 2013/04/29 v1.5.1 modern curriculum vitae and let
+ter icons: awesome
+
+WARNING: to use the awesome icon set, please use XeTeX or LuaTeX to compile you
+r document; switching to the marvosym icon set.
+)
+\footerbox=\box52
+\footertempbox=\box53
+\footerwidth=\skip77
+\footerboxwidth=\skip78
 ) ("C:\MiKTeX 2.9\tex\latex\moderncv\moderncvcolorblue.sty"
 Package: moderncvcolorblue 2013/04/29 v1.5.1 modern curriculum vitae and letter
  color scheme: blue
@@ -1009,20 +1024,20 @@ Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
 ("C:\MiKTeX 2.9\tex\latex\ms\everysel.sty"
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
-\CenteringLeftskip=\skip77
-\RaggedLeftLeftskip=\skip78
-\RaggedRightLeftskip=\skip79
-\CenteringRightskip=\skip80
-\RaggedLeftRightskip=\skip81
-\RaggedRightRightskip=\skip82
-\CenteringParfillskip=\skip83
-\RaggedLeftParfillskip=\skip84
-\RaggedRightParfillskip=\skip85
-\JustifyingParfillskip=\skip86
-\CenteringParindent=\skip87
-\RaggedLeftParindent=\skip88
-\RaggedRightParindent=\skip89
-\JustifyingParindent=\skip90
+\CenteringLeftskip=\skip79
+\RaggedLeftLeftskip=\skip80
+\RaggedRightLeftskip=\skip81
+\CenteringRightskip=\skip82
+\RaggedLeftRightskip=\skip83
+\RaggedRightRightskip=\skip84
+\CenteringParfillskip=\skip85
+\RaggedLeftParfillskip=\skip86
+\RaggedRightParfillskip=\skip87
+\JustifyingParfillskip=\skip88
+\CenteringParindent=\skip89
+\RaggedLeftParindent=\skip90
+\RaggedRightParindent=\skip91
+\JustifyingParindent=\skip92
 ))
 ("C:\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
@@ -1127,12 +1142,12 @@ Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip91
+\Hy@SectionHShift=\skip93
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 31.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 31.
 
-("C:\Users\phodal\Desktop\Personal Web\web.aux")
+("C:\Users\phodal\Desktop\resume\Personal Web\web.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
@@ -1222,7 +1237,7 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count155
 \scratchdimen=\dimen194
-\scratchbox=\box52
+\scratchbox=\box54
 \nofMPsegments=\count156
 \nofMParguments=\count157
 \everyMPshowfont=\toks29
@@ -1292,7 +1307,7 @@ Package microtype Info: Loading generic settings for font family
 
 ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 31.
-\AtBeginShipoutBox=\box53
+\AtBeginShipoutBox=\box55
 Package hyperref Info: Link coloring OFF on input line 31.
 
 ("C:\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
@@ -1307,8 +1322,8 @@ LaTeX Info: Redefining \ref on input line 31.
 LaTeX Info: Redefining \pageref on input line 31.
 LaTeX Info: Redefining \nameref on input line 31.
 
-("C:\Users\phodal\Desktop\Personal Web\web.out")
-("C:\Users\phodal\Desktop\Personal Web\web.out")
+("C:\Users\phodal\Desktop\resume\Personal Web\web.out")
+("C:\Users\phodal\Desktop\resume\Personal Web\web.out")
 \@outlinefile=\write4
 
 ("C:\MiKTeX 2.9\tex\latex\cjk\UTF8\UTF8.bdg"
@@ -1320,33 +1335,14 @@ File: UTF8.enc 2012/05/07 4.8.3
 ("C:\MiKTeX 2.9\tex\latex\cjk\UTF8\UTF8.chr"
 File: UTF8.chr 2012/05/07 4.8.3
 )
-\makecvtitledetailsbox=\box54
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 34.
+\makecvtitlepicturebox=\box56
 
-("C:\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
-File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 34.
- ("C:\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 34.
-
- ("C:\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 34.
-
-
-("C:\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 34.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 34.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 34.
+<picture.jpg, id=46, 94.3525pt x 94.3525pt>
+File: picture.jpg Graphic file (type jpg)
+ <use picture.jpg>
+Package pdftex.def Info: picture.jpg used on input line 34.
+(pdftex.def)             Requested size: 64.0pt x 63.99902pt.
+\makecvtitlepicturewidth=\skip94
 LaTeX Font Info:    Try loading font information for C70+gbsn on input line 34.
 
 
@@ -1356,27 +1352,29 @@ File: c70gbsn.fd 2012/05/07 4.8.3
 ("C:\MiKTeX 2.9\tex\latex\cjk\UTF8\c70gbsn.fdx"
 File: c70gbsn.fdx 2012/05/07 4.8.3
 )
-
-LaTeX Font Warning: Font shape `C70/gbsn/m/sl' undefined
-(Font)              using `C70/gbsn/m/n' instead on input line 34.
-
-("C:\MiKTeX 2.9\tex\latex\microtype\mt-mvs.cfg"
-File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
-)
-\makecvtitlepicturebox=\box55
-
-<picture.jpg, id=61, 94.3525pt x 94.3525pt>
-File: picture.jpg Graphic file (type jpg)
- <use picture.jpg>
-Package pdftex.def Info: picture.jpg used on input line 34.
-(pdftex.def)             Requested size: 64.0pt x 63.99902pt.
-\makecvtitledetailswidth=\skip92
-\makecvtitlepicturewidth=\skip93
-
 Underfull \hbox (badness 10000) in paragraph at lines 34--34
 
  []
 
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 36.
+("C:\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 36.
+ ("C:\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 36.
+
+ ("C:\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 36.
+
+
+("C:\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 36.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1386,91 +1384,110 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 36.
 
+
 LaTeX Font Warning: Font shape `C70/gbsn/m/it' undefined
 (Font)              using `C70/gbsn/m/n' instead on input line 36.
 
+("C:\MiKTeX 2.9\tex\latex\microtype\mt-mvs.cfg"
+File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
+)
+
+LaTeX Font Warning: Font shape `C70/gbsn/m/sl' undefined
+(Font)              using `C70/gbsn/m/n' instead on input line 78.
+
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 78.
+("C:\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10.95> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 78.
+
+
+Package Fancyhdr Warning: \footskip is too small (30.0pt): 
+ Make it at least 50.31998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/phodal/Desktop/P
-ersonal Web/picture.jpg>] [2]
+{C:/Users/phodal/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/p
+hodal/Desktop/resume/Personal Web/picture.jpg>]
+
+Package Fancyhdr Warning: \footskip is too small (30.0pt): 
+ Make it at least 50.31998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 123.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 123.
- ("C:\Users\phodal\Desktop\Personal Web\web.aux")
+ ("C:\Users\phodal\Desktop\resume\Personal Web\web.aux")
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 123.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 123.
+Package rerunfilecheck Info: File `web.out' has not changed.
+(rerunfilecheck)             Checksum: 956AC36D11E9008771FEA52324729CA3;780.
 
-
-Package rerunfilecheck Warning: File `web.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `web.out':
-(rerunfilecheck)             Before: B9A1D0BFFFBFA2B1E330D510844033FB;858
-(rerunfilecheck)             After:  956AC36D11E9008771FEA52324729CA3;780.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 27445 strings out of 493921
- 467304 string characters out of 3152892
- 555223 words of memory out of 3000000
- 29939 multiletter control sequences out of 15000+200000
- 100693 words of font info for 198 fonts, out of 3000000 for 9000
+ 27431 strings out of 493921
+ 467562 string characters out of 3152892
+ 554072 words of memory out of 3000000
+ 29929 multiletter control sequences out of 15000+200000
+ 89010 words of font info for 183 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 77i,15n,61p,796b,1424s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{section*.11} has been referenced but does not exi
-st, replaced by a fixed one
-
-{C:/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/MiKTeX 2.9/fonts/type1/arphic/g
-bsnu/gbsnu30.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu4e.pfb><C:/MiKTeX
- 2.9/fonts/type1/arphic/gbsnu/gbsnu4f.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbs
-nu/gbsnu51.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu52.pfb><C:/MiKTeX 2
-.9/fonts/type1/arphic/gbsnu/gbsnu53.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu
-/gbsnu54.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu55.pfb><C:/MiKTeX 2.9
-/fonts/type1/arphic/gbsnu/gbsnu56.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/g
-bsnu57.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu59.pfb><C:/MiKTeX 2.9/f
-onts/type1/arphic/gbsnu/gbsnu5b.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbs
-nu5c.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu5d.pfb><C:/MiKTeX 2.9/fon
-ts/type1/arphic/gbsnu/gbsnu5e.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu
-5f.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu60.pfb><C:/MiKTeX 2.9/fonts
-/type1/arphic/gbsnu/gbsnu61.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu62
-.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu63.pfb><C:/MiKTeX 2.9/fonts/t
-ype1/arphic/gbsnu/gbsnu64.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu65.p
-fb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu66.pfb><C:/MiKTeX 2.9/fonts/typ
-e1/arphic/gbsnu/gbsnu67.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu68.pfb
-><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu69.pfb><C:/MiKTeX 2.9/fonts/type1
-/arphic/gbsnu/gbsnu6a.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu6e.pfb><
-C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu71.pfb><C:/MiKTeX 2.9/fonts/type1/a
-rphic/gbsnu/gbsnu72.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu73.pfb><C:
-/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu74.pfb><C:/MiKTeX 2.9/fonts/type1/arp
-hic/gbsnu/gbsnu75.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu76.pfb><C:/M
-iKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu77.pfb><C:/MiKTeX 2.9/fonts/type1/arphi
-c/gbsnu/gbsnu78.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu79.pfb><C:/MiK
-TeX 2.9/fonts/type1/arphic/gbsnu/gbsnu7a.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/
-gbsnu/gbsnu7b.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu7c.pfb><C:/MiKTe
-X 2.9/fonts/type1/arphic/gbsnu/gbsnu7e.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gb
-snu/gbsnu7f.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu80.pfb><C:/MiKTeX 
-2.9/fonts/type1/arphic/gbsnu/gbsnu81.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsn
-u/gbsnu83.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu84.pfb><C:/MiKTeX 2.
-9/fonts/type1/arphic/gbsnu/gbsnu87.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/
-gbsnu88.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu89.pfb><C:/MiKTeX 2.9/
-fonts/type1/arphic/gbsnu/gbsnu8a.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gb
-snu8b.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu8d.pfb><C:/MiKTeX 2.9/fo
-nts/type1/arphic/gbsnu/gbsnu8f.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsn
-u90.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu91.pfb><C:/MiKTeX 2.9/font
-s/type1/arphic/gbsnu/gbsnu95.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu9
-6.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu97.pfb><C:/MiKTeX 2.9/fonts/
-type1/arphic/gbsnu/gbsnu98.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu9a.
-pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu9e.pfb><C:/MiKTeX 2.9/fonts/ty
-pe1/arphic/gbsnu/gbsnuff.pfb><C:/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C
-:/MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/MiKTeX 2.9/fonts/type1/public/
-lm/lmssbx10.pfb><C:/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/MiKTeX 2.9
-/fonts/type1/public/lm/lmsso8.pfb><C:/MiKTeX 2.9/fonts/type1/public/marvosym/ma
-rvosym.pfb>
-Output written on web.pdf (2 pages, 431986 bytes).
+ 84i,15n,63p,796b,1446s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/MiKTeX 2.9/fonts/enc/dvips/lm
+/lm-mathsy.enc}<C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu30.pfb><C:/MiKTeX 2
+.9/fonts/type1/arphic/gbsnu/gbsnu4e.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu
+/gbsnu4f.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu50.pfb><C:/MiKTeX 2.9
+/fonts/type1/arphic/gbsnu/gbsnu51.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/g
+bsnu52.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu53.pfb><C:/MiKTeX 2.9/f
+onts/type1/arphic/gbsnu/gbsnu54.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbs
+nu55.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu56.pfb><C:/MiKTeX 2.9/fon
+ts/type1/arphic/gbsnu/gbsnu57.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu
+59.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu5b.pfb><C:/MiKTeX 2.9/fonts
+/type1/arphic/gbsnu/gbsnu5c.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu5d
+.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu5e.pfb><C:/MiKTeX 2.9/fonts/t
+ype1/arphic/gbsnu/gbsnu5f.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu60.p
+fb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu61.pfb><C:/MiKTeX 2.9/fonts/typ
+e1/arphic/gbsnu/gbsnu62.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu63.pfb
+><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu64.pfb><C:/MiKTeX 2.9/fonts/type1
+/arphic/gbsnu/gbsnu65.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu66.pfb><
+C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu67.pfb><C:/MiKTeX 2.9/fonts/type1/a
+rphic/gbsnu/gbsnu68.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu69.pfb><C:
+/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu6e.pfb><C:/MiKTeX 2.9/fonts/type1/arp
+hic/gbsnu/gbsnu71.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu72.pfb><C:/M
+iKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu73.pfb><C:/MiKTeX 2.9/fonts/type1/arphi
+c/gbsnu/gbsnu74.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu75.pfb><C:/MiK
+TeX 2.9/fonts/type1/arphic/gbsnu/gbsnu76.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/
+gbsnu/gbsnu77.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu78.pfb><C:/MiKTe
+X 2.9/fonts/type1/arphic/gbsnu/gbsnu79.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gb
+snu/gbsnu7a.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu7b.pfb><C:/MiKTeX 
+2.9/fonts/type1/arphic/gbsnu/gbsnu7c.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsn
+u/gbsnu7e.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu7f.pfb><C:/MiKTeX 2.
+9/fonts/type1/arphic/gbsnu/gbsnu80.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/
+gbsnu81.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu83.pfb><C:/MiKTeX 2.9/
+fonts/type1/arphic/gbsnu/gbsnu84.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gb
+snu88.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu89.pfb><C:/MiKTeX 2.9/fo
+nts/type1/arphic/gbsnu/gbsnu8a.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsn
+u8b.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu8d.pfb><C:/MiKTeX 2.9/font
+s/type1/arphic/gbsnu/gbsnu8f.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu9
+0.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu91.pfb><C:/MiKTeX 2.9/fonts/
+type1/arphic/gbsnu/gbsnu95.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu96.
+pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu97.pfb><C:/MiKTeX 2.9/fonts/ty
+pe1/arphic/gbsnu/gbsnu98.pfb><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu9a.pf
+b><C:/MiKTeX 2.9/fonts/type1/arphic/gbsnu/gbsnu9e.pfb><C:/MiKTeX 2.9/fonts/type
+1/arphic/gbsnu/gbsnuff.pfb><C:/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/
+MiKTeX 2.9/fonts/type1/public/lm/lmss8.pfb><C:/MiKTeX 2.9/fonts/type1/public/lm
+/lmssbx10.pfb><C:/MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/MiKTeX 2.9/f
+onts/type1/public/lm/lmsso8.pfb><C:/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb
+><C:/MiKTeX 2.9/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on web.pdf (2 pages, 426804 bytes).
 PDF statistics:
  415 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
- 21864 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 13 named destinations out of 1000 (max. 500000)
+ 18780 words of extra memory for PDF output out of 20736 (max. 10000000)
 
