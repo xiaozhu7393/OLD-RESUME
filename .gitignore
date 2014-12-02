@@ -1,0 +1,10 @@
+WebDevel/web.out
+WebDevel/web.aux
+WebDevel/web.log
+WebDevel/*.gz
+
+Personal/all.out
+Personal/all.aux
+Personal/all.log
+Personal/*.gz
+
