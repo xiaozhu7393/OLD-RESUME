@@ -1,7 +1,7 @@
 Phodal's Resume
 =================================================
 
-> 这是在毕业时用Latex写的一个简单。
+> 毕业时用Latex写的一个简历。
 
  - Windows 上可以用 MiKTex
  - Mac OS 上可以用 MacTex
